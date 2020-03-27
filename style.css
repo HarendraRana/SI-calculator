@@ -1,0 +1,20 @@
+
+body {
+background-color:#571529;
+}
+h1 {
+	background-color:#ffed19;
+	font-size:25;
+}
+div {
+	background-color:#ffee9e;
+	font-size:20;
+	font-family:sans-serif;
+}
+p {
+	background-color: black;
+	color:yellow;
+}
+button {
+	font-size: 25;
+}
